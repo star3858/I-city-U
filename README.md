@@ -11,6 +11,15 @@ Implementing Vehicle Control Service Using AWS IoT
 ## Expectation
 ![image](https://user-images.githubusercontent.com/35095311/52533544-798b2b80-2d78-11e9-84f0-6de6ae75243d.png)
 
+## About
+![image](https://user-images.githubusercontent.com/35095311/52533669-93c60900-2d7a-11e9-8827-1301f2df5cb1.png)
+
+## Function
+![image](https://user-images.githubusercontent.com/35095311/52533676-a6404280-2d7a-11e9-93e7-6f451ce228dc.png)
+![image](https://user-images.githubusercontent.com/35095311/52533679-b0624100-2d7a-11e9-95d5-2c88b6807bb4.png)
+![image](https://user-images.githubusercontent.com/35095311/52533681-b9eba900-2d7a-11e9-93a3-5d6a8e8ed187.png)
+![image](https://user-images.githubusercontent.com/35095311/52533684-c243e400-2d7a-11e9-8ffb-a02add2078d9.png)
+
 ## Youtube link
 <https://youtu.be/9Tdj9SAT16o>
 
