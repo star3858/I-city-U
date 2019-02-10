@@ -1,6 +1,6 @@
 # I-city-U
 Implementing Vehicle Control Service Using AWS IoT
-
+![2](https://user-images.githubusercontent.com/35095311/52533629-d6d3ac80-2d79-11e9-8485-2a8e60e3d1cc.gif)
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/35095311/52533523-45b00600-2d78-11e9-960c-c4b25c04d74d.png)
@@ -11,3 +11,9 @@ Implementing Vehicle Control Service Using AWS IoT
 ## Expectation
 ![image](https://user-images.githubusercontent.com/35095311/52533544-798b2b80-2d78-11e9-84f0-6de6ae75243d.png)
 
+## Youtube link
+<https://youtu.be/9Tdj9SAT16o>
+
+## Awards
+2018 한이음 엑스포 ICT기업 대표이사상
+![kakaotalk_20190210_211442930](https://user-images.githubusercontent.com/35095311/52533643-02569700-2d7a-11e9-84f1-ad94003e6f55.jpg)
