@@ -25,4 +25,3 @@ Implementing Vehicle Control Service Using AWS IoT
 
 ## Awards
 2018 한이음 엑스포 ICT기업 대표이사상
-![kakaotalk_20190210_211442930](https://user-images.githubusercontent.com/35095311/52533643-02569700-2d7a-11e9-84f1-ad94003e6f55.jpg)
